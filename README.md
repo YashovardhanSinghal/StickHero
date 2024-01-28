@@ -1,5 +1,5 @@
 
-#Yoyo - A JavaFX Stick Hero Game
+# Yoyo - A JavaFX Stick Hero Game
 Overview
 Yoyo is a JavaFX-based desktop game inspired by the popular Stick Hero mobile game. The
 objective is to guide the hero across various platforms using a dynamically extendable stick.
